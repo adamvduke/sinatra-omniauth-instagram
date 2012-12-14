@@ -1,0 +1,5 @@
+IG_CLIENT_ID = "Your Instagram Client ID"
+IG_CLIENT_SECRET = "Your Instagram Client Secret"
+IG_REDIRECT_URI	= "http://localhost:3000/oauth_callback"
+IG_AUTHORIZE_URI = "https://api.instagram.com/oauth/authorize"
+IG_ACCESS_TOKEN_URI = "https://api.instagram.com/oauth/access_token"

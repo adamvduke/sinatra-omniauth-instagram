@@ -1,0 +1,9 @@
+%a{href:"/"}
+  Home
+|
+%a{href:"/about"}
+  About
+-if session_is_valid?
+  |
+  %a{href:"/logout"}
+    Logout
